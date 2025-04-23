@@ -1,8 +1,8 @@
 # Inteligencia Fiscal Aumentada - Documentación Técnica
-
+[System Architecture](https://lucid.app/lucidchart/ea0793d6-fdd8-4be9-b4ae-1c344f91e0d4/edit?viewport_loc=-147%2C-4%2C2101%2C1100%2C0_0&invitationId=inv_63f340d3-d065-4369-b0c1-54c49f581302)
 [AWS Architecture](#)
 [Flow Diagram](https://lucid.app/lucidchart/8ea6076e-6e39-49a7-a3b3-483a108a0450/edit?viewport_loc=-1266%2C-68%2C4882%2C2151%2C0_0&invitationId=inv_30002f66-bcdc-4b0e-992d-529d97c26543) 
-[System Architecture](https://lucid.app/lucidchart/ea0793d6-fdd8-4be9-b4ae-1c344f91e0d4/edit?viewport_loc=-147%2C-4%2C2101%2C1100%2C0_0&invitationId=inv_63f340d3-d065-4369-b0c1-54c49f581302)
+
 
 Versión: 1.0
 Autor: [AWSome Team]
